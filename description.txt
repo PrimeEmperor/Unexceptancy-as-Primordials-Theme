@@ -1,0 +1,9 @@
+Description - The Primordials and Dream Eater's Theme from Thorium Mod are replaced with Unexceptancy from Pizza Tower, if for whatever reason mod title isn't enough for you. 
+All 4 phases were used:
+
+1) Beginning of battle with Primordials
+2) One of the Primordials is defeated
+3) Dream Eater when its health > 40%
+4) Dream Eater when its health < 40%
+
+Credits to Tour De Pizza and Diverman Sam
